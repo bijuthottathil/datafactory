@@ -1,0 +1,9 @@
+{
+	"name": "adf-biju-lessons",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fcbbf75d-90e9-48a1-a314-d1ea133bb71a",
+		"tenantId": "50c70d3e-8356-4111-82d3-3fb1deae449b"
+	}
+}
